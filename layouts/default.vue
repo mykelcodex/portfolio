@@ -23,7 +23,8 @@
 import backgroundUrl from '~/assets/images/background.svg'
 import logo from '~/assets/images/mike.svg'
 export default {
-  
+  transition:'page',
+  mode: 'out-in',
   data(){
     return { 
       backgroundUrl,
