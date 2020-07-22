@@ -48,7 +48,7 @@
           { name: 'twitter:title', content: this.post.fields.title },
           { name: 'twitter:description', content: this.$md.render(this.post.fields.content).substring(0, 200) + '...' },
           { name: 'twitter:site', content: '@mykelcodex' },
-          { name: 'twitter:image', content: this.post.fields.cover.fields.file.url },
+          { name: 'twitter:image', content: 'https:' + this.post.fields.cover.fields.file.url },
           { name: 'twitter:creator', content: '@mykelcodex' },
         ],
         link:[
