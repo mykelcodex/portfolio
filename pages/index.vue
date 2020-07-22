@@ -226,7 +226,7 @@ head () {
         { name: 'twitter:title', content: 'Oke Michael - Software Engineer' },
         { name: 'twitter:description', content: 'Hello! My name is Oke Michael, i am a software engineer based in Nigeria. I focus majorly on the web..' },
         { name: 'twitter:site', content: '@mykelcodex' },
-        { name: 'twitter:image', content: '/images/homepage.png' },
+        { name: 'twitter:image', content: 'https://images/homepage.png' },
         { name: 'twitter:creator', content: '@mykelcodex' },
       ],
     }
