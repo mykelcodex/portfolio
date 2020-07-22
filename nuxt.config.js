@@ -60,7 +60,7 @@ export default {
     '@nuxtjs/markdownit',
     ['@nuxtjs/sitemap',{
       path: '/sitemap.xml',
-      hostname: 'https://omike.me',
+      hostname: 'https://mykeel.dev',
       generate: true,
       routes:[
         {
