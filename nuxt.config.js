@@ -40,6 +40,7 @@ export default {
   plugins: [
     '~/plugins/contentful',
     '~/plugins/day',
+    '~/plugins/disqus'
   ],
   /*
   ** Nuxt.js dev-modules
