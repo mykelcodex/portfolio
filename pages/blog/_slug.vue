@@ -20,7 +20,9 @@
       </div>
     </div>
     <div class="max-w-3xl mx-auto">
-      <Disqus />
+      <no-ssr>
+        <Disqus/>
+      </no-ssr>
     </div>
   </div>
 </template>
