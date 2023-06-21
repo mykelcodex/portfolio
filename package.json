@@ -18,7 +18,7 @@
     "contentful": "^7.14.5",
     "markdown-it-highlightjs": "^3.2.0",
     "node-sass": "^4.14.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "sass-loader": "^9.0.2",
     "vue-disqus": "^4.0.1"
   },
